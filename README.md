@@ -1,2 +1,2 @@
-强化学习实验配置直接pip install -r requirements.txt即可
+强化学习实验环境配置直接pip install -r requirements.txt即可
 Sarsa算法运行到eval阶段时可能会卡，这里建议把训练次数从500改成1000
